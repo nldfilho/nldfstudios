@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://example.com/">
+  <a>
     <img src="nldf.svg" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center"><a  style="font-weight:900">NLDF<span style="font-weight:normal">Studios</span></a></h3>
+  <h1 align="center">NLDFStudios</h3>
 
   <p align="center">
     Short description
