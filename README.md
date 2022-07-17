@@ -1,11 +1,7 @@
 <p align="center">
 
   <a>
-    <img src="nldf.svg" alt="Logo" width=100 height=100>
+    <img src="nldf.svg" alt="Logo" width=500 height=500>
   </a>
-
-  <h1 align="center">NLDFStudios</h3>
-  
-  <br></br>
 
 </p>
